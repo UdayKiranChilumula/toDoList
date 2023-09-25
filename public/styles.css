@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(0, 255, 255);
+}
+nav{
+    padding: 10px;
+    padding-top: 20px;
+}
+a{
+    text-decoration: none; 
+    padding-inline: 10px;
+}
+footer{
+    padding: 30px;
+    text-align: center;
+}
+.heading{
+    text-align: center;
+    background-color: #7fffd4;
+    width:fit-content;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    box-shadow: 3px 3px rgb(255, 255, 255);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+.item{
+    width: 300px;
+    font-size: large;
+    padding: 15px;
+    box-shadow: 3px 3px rgb(255, 255, 255);
+    background-color: aquamarine;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: solid;
+    border-bottom-color:  rgb(0, 255, 255) ;
+}
+.input{
+    justify-content: center;
+}
+.label{
+    text-decoration: line-through;
+}
